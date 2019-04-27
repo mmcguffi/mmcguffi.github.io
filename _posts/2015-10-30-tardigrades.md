@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eight legged treats - Making gummy water bears
+title: Eight legged treats - Testing gummy water bears
 ---
 <a href="clairemcwhite.github.io/tardigrades"><img src="https://raw.githubusercontent.com/clairemcwhite/clairemcwhite.github.io/master/images/closeup.jpg" width="500"/></a>
 <br>*SEM:Bob Goldstein and Vicky Madden, [http://tardigrades.bio.unc.edu/](http://tardigrades.bio.unc.edu/)*
