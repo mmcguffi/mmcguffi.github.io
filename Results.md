@@ -1,9 +1,7 @@
 ---
 layout: page
-title: 
+title: Results
 permalink: /results/
 ---
-
-## Results
 
 results go here
