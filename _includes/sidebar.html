@@ -1,6 +1,3 @@
-
-
-
 <div class="sidebar">
   <div class="container sidebar-sticky">
  
@@ -12,7 +9,6 @@
         
         <a href="https://github.com/mmcguffi/mmcguffi.github.io">GitHub Repository</a>
  
-
     <nav class="sidebar-nav">
       {% comment %}
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
@@ -22,12 +18,12 @@
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-
+      
       {% assign posts_list = site.posts %}
       {% for node in posts_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-               <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+           <!--    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a> -->
           {% endif %}
         {% endif %}
       {% endfor %}
