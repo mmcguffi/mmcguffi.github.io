@@ -12,4 +12,4 @@ testing, testing
 ### testing
 testing markdown here -- again!
 
-<img src="images/Picture2.png" width="50%" height="50%">
+<img src="images/Picture2.png" height="50%">
