@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 
+title: test
 permalink: /methods/
 ---
 
-## Methods
+### Methods
 
 I put methods here
