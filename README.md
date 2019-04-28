@@ -1,3 +1,3 @@
-## Claire McWhite's site
+## Matt McGuffie's site
 
-Posts and stuff
+A collection of what's going on
