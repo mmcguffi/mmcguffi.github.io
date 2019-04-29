@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<font face='BankGothic' size="48">pLannotate</font>
+<font face='Arial' size="48">pLannotate</font>
 
 # pLannotate -- Plasmid Annotation Tool
 
