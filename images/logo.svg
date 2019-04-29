@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1561.35" height="403.5" viewBox="0 0 1561.35 403.5">
+  <defs>
+    <style>
+      .\32 67adc11-fb1f-4b7a-ac00-da14d9ba6507, .\33 5d879e9-573b-42bd-a5e4-473aba63e543, .\39 b227ace-c04f-4f62-915b-8b8dfa275cda, .b3acf0e0-4f3b-4d56-a1b0-e9fee091ca68, .bfe48833-e59e-460a-bdb8-01e2d16bf144 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .\33 5d879e9-573b-42bd-a5e4-473aba63e543 {
+        stroke: gray;
+      }
+
+      .\33 5d879e9-573b-42bd-a5e4-473aba63e543, .\39 b227ace-c04f-4f62-915b-8b8dfa275cda {
+        stroke-width: 21px;
+      }
+
+      .\39 b227ace-c04f-4f62-915b-8b8dfa275cda {
+        stroke: #000;
+      }
+
+      .\32 67adc11-fb1f-4b7a-ac00-da14d9ba6507 {
+        stroke: #47a071;
+      }
+
+      .\32 67adc11-fb1f-4b7a-ac00-da14d9ba6507, .b3acf0e0-4f3b-4d56-a1b0-e9fee091ca68, .bfe48833-e59e-460a-bdb8-01e2d16bf144 {
+        stroke-width: 44px;
+      }
+
+      .bfe48833-e59e-460a-bdb8-01e2d16bf144 {
+        stroke: #f7a45e;
+      }
+
+      .b3acf0e0-4f3b-4d56-a1b0-e9fee091ca68 {
+        stroke: #4e7fff;
+      }
+
+      .\31 eb87ea6-11da-45c6-aa82-ae8cd0681c83 {
+        font-size: 265px;
+        fill: gray;
+        font-family: ITCAvantGardeStd-Bk, ITC Avant Garde Gothic Std;
+      }
+
+      .\38 cc42116-42e0-4c7d-b79f-ba9e8bb83181 {
+        letter-spacing: -0.03em;
+      }
+
+      .\36 f823d3e-0722-4957-9caf-9aeeed56c64e {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <title>Asset 1</title>
+  <g id="ae26540f-0af5-493b-b50e-c75b75013cbe" data-name="Layer 2">
+    <g id="6c662c0a-1d53-4c95-b1d2-168b48e9e253" data-name="Layer 1">
+      <line class="35d879e9-573b-42bd-a5e4-473aba63e543" x1="10.5" y1="167.58" x2="10.5" y2="403.5"/>
+      <circle class="9b227ace-c04f-4f62-915b-8b8dfa275cda" cx="120.38" cy="167.58" r="109.88"/>
+      <path class="267adc11-fb1f-4b7a-ac00-da14d9ba6507" d="M59,76.46a110,110,0,0,1,104.2-10.13"/>
+      <path class="bfe48833-e59e-460a-bdb8-01e2d16bf144" d="M228,145.43a109.92,109.92,0,0,1-121.94,131.1"/>
+      <path class="b3acf0e0-4f3b-4d56-a1b0-e9fee091ca68" d="M59,258.69A110.37,110.37,0,0,1,23.76,220"/>
+      <text class="1eb87ea6-11da-45c6-aa82-ae8cd0681c83" transform="translate(254.13 219.95)">Lanno<tspan class="8cc42116-42e0-4c7d-b79f-ba9e8bb83181" x="809.03" y="0">t</tspan><tspan x="884.29" y="0">a</tspan><tspan class="8cc42116-42e0-4c7d-b79f-ba9e8bb83181" x="1065.54" y="0">t</tspan><tspan class="6f823d3e-0722-4957-9caf-9aeeed56c64e" x="1140.8" y="0">e</tspan></text>
+    </g>
+  </g>
+</svg>
