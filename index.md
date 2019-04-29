@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+<font size="48">pLannotate</font>
+
 # pLannotate -- Plasmid Annotation Tool
 
 ## Introduction
