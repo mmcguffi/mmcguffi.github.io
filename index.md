@@ -9,7 +9,7 @@ title: Home
 
 Plasmids have complex cloning histories
 
-<img src="images/pBR322.png" height="80%">
+<img src="images/pBR322.png" height="100%">
 
 testing, testing
 
