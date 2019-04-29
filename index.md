@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-# Project Overview
+# pLannotate
+
+## Introduction
 
 Plasmids have complex cloning histories
 
