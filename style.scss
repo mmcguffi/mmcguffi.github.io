@@ -31,8 +31,19 @@ body {
 //}
 
 
-sup {font-size:xx-small; vertical-align:top;}
-
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup {
+    top: -0.5em;
+}
+sub {
+    bottom: -0.25em;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
