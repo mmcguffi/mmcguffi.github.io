@@ -3,8 +3,7 @@ layout: default
 title: Home
 ---
 
-<font face='Noto Serif' size="48">pLannotate</font>
-<span style="font-family:'Noto Serif' size="48">This text is in Arial</span>
+<font face='BankGothic' size="48">pLannotate</font>
 
 # pLannotate -- Plasmid Annotation Tool
 
