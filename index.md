@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# pLannotate -- plasmid annotation
+# pLannotate -- Plasmid Annotation Tool
 
 ## Introduction
 
