@@ -4,7 +4,6 @@ title: Home
 ---
 
 <font face='Arial Black' size="48" color="f9a557">pLannotate</font>
-
 # Plasmid Annotation Tool
 
 ## Introduction
