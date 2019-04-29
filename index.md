@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-<font face='Arial' size="48">pLannotate</font>
+<font face='Arial Black' size="48" color="f9a557">pLannotate</font>
 
-# pLannotate -- Plasmid Annotation Tool
+# Plasmid Annotation Tool
 
 ## Introduction
 
