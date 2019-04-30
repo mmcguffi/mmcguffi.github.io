@@ -30,11 +30,6 @@ body {
 //  width: 100%;
 //}
 
-.markdown-preview.markdown-preview {
-  pre[data-role="codeBlock"] {
-    font-size: 48px !important; // <= font size.
-  }
-}
 
 sub, sup {
   /* Specified in % so that the sup/sup is the right size relative to the surrounding text */
@@ -388,7 +383,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 16px;
     font-style: italic;
   }
 
