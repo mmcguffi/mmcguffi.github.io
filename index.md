@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- <font face='Arial Black' size="48" color="f9a557">pLannotate</font> -->
-<img src="images/pLannotate_title.png" height="100%">
+<img src="images/pLannotate_title.png">
 # Plasmid Annotation Tool
 
 ## Introduction
