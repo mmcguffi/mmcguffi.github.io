@@ -6,7 +6,7 @@ permalink: /discussion/
 
 I put discussion here  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I demonstrated that the vast majority (>93%) of plasmids in the Addgene repository contain fragments of ORFs. These are often likely just “dead weight”, taking up space that could be used in other parts of the plasmid. However, at least in some plasmids, these protein fragments appear to downstream of intact constitutive promoters. The figure below shows one of the most commonly requested plasmids from Addgene; on the left is the annotation that Addgene provides (via Snapgene), and on the right is my annotation.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I demonstrated that the vast majority (>93%) of plasmids in the Addgene repository contain fragments of ORFs. These are often likely just “dead weight”, taking up space that could be used in other parts of the plasmid. However, at least in some plasmids, these protein fragments appear to downstream of intact constitutive promoters. The figure below shows one of the <a href=" https://www.addgene.org/27169/">most commonly requested plasmids</a> from Addgene; on the left is the annotation that Addgene provides (via Snapgene), and on the right is my annotation.  
 
 <img src="/images/before_after.png" height="40%">  
 
