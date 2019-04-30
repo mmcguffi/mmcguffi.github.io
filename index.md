@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-<font face='Arial Black' size="48" color="f9a557">pLannotate</font>
+<!-- <font face='Arial Black' size="48" color="f9a557">pLannotate</font> -->
+<img src="images/pLannotate_title.png" height="100%">
 # Plasmid Annotation Tool
 
 ## Introduction
