@@ -6,4 +6,4 @@ permalink: /discussion/
 
 I put discussion here  
 
-<img align="left" src="/images/before_after.png" height="80%">
+<img align="left" src="/images/before_after.png" height="60%">
