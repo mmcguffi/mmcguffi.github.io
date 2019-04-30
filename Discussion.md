@@ -6,5 +6,4 @@ permalink: /discussion/
 
 I put discussion here  
 
-<img align="left" src="/images/erm_gfp.png" height="50%">
-<img align="right" src="/images/erm_gfp_frag.png" height="50%">
+<img align="left" src="/images/before_after.png" height="80%">
