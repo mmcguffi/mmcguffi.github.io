@@ -1,3 +1,3 @@
 ## Matt McGuffie's site
 
-A collection of what's going on
+Please visit https://mmcguffi.github.io/ for an explanation of this code
