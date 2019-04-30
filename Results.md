@@ -4,7 +4,7 @@ title: Results
 permalink: /results/
 ---
 
-<img src="/images/plasmid_annotation.png" height="100%">
+<img src="/images/plasmid_annotation.png" width="80%">
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
 <div id="f0b865f4-fef5-45dc-96aa-175c215beedf" style="height: 500px; width: 850px;" class="plotly-graph-div"></div><script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {};window.PLOTLYENV.BASE_URL="https://plot.ly";Plotly.newPlot("f0b865f4-fef5-45dc-96aa-175c215beedf", [{"hoverinfo": "label+percent", "labels": ["At least one fragmented CDS", "No fragments"], "marker": {"colors": ["#f9a557", "#808080"], "line": {"color": "#000000", "width": 2}}, "textinfo": "value", "values": [18990, 1260], "type": "pie", "uid": "3a9c64fa-6afb-11e9-89e6-acbc32ac2c23"}], {"autosize": false, "height": 500, "title": "Number of plasmids with protein fragments", "titlefont": {"size": 24}, "width": 850}, {"showLink": true, "linkText": "Export to plot.ly"})</script>
