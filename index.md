@@ -13,7 +13,7 @@ Plasmids are extra-chromosomal, autonomously replicating segments of DNA found w
 	One of the first engineered plasmids, pBR322, has donated at least part of its sequence to over 92% of engineered plasmids in <a href="https://www.addgene.org/mission/">Addgene’s</a>
 repository, making it the ancestor to the majority of engineered plasmids. However, even this “basic” plasmid has a complicated assembly history, comprised of a dozen or so distinct plasmids and transposons.  
 
-<img src="images/pBR322.png" height="100%">  
+<img align="left" src="images/pBR322.png" height="100%">  
 
 The various ancestral elements of pBR322 were assembled via cutting with restriction enzymes to obtain fragments which contained the desired function (antibiotic resistance, origin of replication, etc.), often taking DNA that has no explicit function along for the ride as well. This extra, not-explicitly-wanted DNA would then be carried into future plasmids constructed from pBR322 as well. Even with the advent of more precise cloning techniques, the construction of most plasmids follows a similar template of that of pBR322.  
 
