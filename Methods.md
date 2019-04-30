@@ -29,8 +29,7 @@ import plotly
 plotly.offline.init_notebook_mode()
 import plotly.offline as py
 import plotly.graph_objs as go
-import plotly.io as pio
-from IPython.display import Image
+
 ```
 
 
