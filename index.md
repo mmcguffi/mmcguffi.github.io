@@ -5,7 +5,7 @@ title: Home
 
 <!-- <font face='Arial Black' size="48" color="f9a557">pLannotate</font> -->
 <img align = "left" src="images/pLannotate_title.png" width="33%">
-# Plasmid Annotation Tool
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plasmid Annotation Tool
 
 ## Introduction
 
