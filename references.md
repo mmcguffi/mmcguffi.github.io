@@ -11,14 +11,3 @@ permalink: /references/
 5. Herscovitch, M., Perkins, E., Baltus, A. & Fan, M. Addgene provides an open forum for plasmid sharing. Nat Biotechnol 30, 316–317 (2012).
 6. Kamens, J. The Addgene repository: an international nonprofit plasmid and data resource. Nucleic Acids Research 43, D1152–D1157 (2015).
 7. Project Jupyter. Available at: https://www.jupyter.org. (Accessed: 30th April 2019)
-
----
-
-<img src="/images/pres/1.png">
-<img src="/images/pres/2.png">
-<img src="/images/pres/3.png">
-<img src="/images/pres/4.png">
-<img src="/images/pres/5.png">
-<img src="/images/pres/6.png">
-<img src="/images/pres/7.png">
-<img src="/images/pres/8.png">
