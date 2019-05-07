@@ -12,7 +12,7 @@ permalink: /pres/
 <img src="/images/pres/9.png"><br/><br/><br/>
 <img src="/images/pres/7.png"><br/><br/><br/>
 <img src="/images/pres/8.png"><br/><br/><br/>
-<img src="/images/pres/5.png"><br/><br/><br/><br/><br/><br/>
+<img src="/images/pres/5.png"  width="200"><br/><br/><br/><br/><br/><br/>
 <img src="/images/pres/4.png"><br/><br/><br/><br/><br/><br/>
 <img src="/images/pres/6.png"><br/><br/><br/>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
