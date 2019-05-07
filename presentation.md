@@ -8,7 +8,7 @@ permalink: /pres/
 <img src="/images/pres/3.png"><br/><br/><br/>
 <img src="/images/pres/geneious.png">
 <img src="/images/pres/SnapGene.png"><br/><br/><br/>
-<img src="/images/pres/2.png" width="65%"><br/><br/><br/>
+<img src="/images/pres/2.png" width="65%"><br/><br/><br/><br/><br/>
 <img src="/images/pres/9.png"><br/><br/><br/>
 <img src="/images/pres/7.png"><br/><br/><br/>
 <img src="/images/pres/8.png"><br/><br/><br/>
