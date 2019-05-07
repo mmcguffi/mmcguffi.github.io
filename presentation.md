@@ -4,7 +4,7 @@ title: Presentation
 permalink: /pres/
 ---
 
-<img src="/images/pres/1.png"><br/><br/><br/>
+<img src="/images/pres/1.png" width="75%"><br/><br/><br/>
 <img src="/images/pres/3.png"><br/><br/><br/>
 <img src="/images/pres/geneious.png">
 <img src="/images/pres/SnapGene.png"><br/><br/><br/>
