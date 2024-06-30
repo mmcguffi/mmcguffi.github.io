@@ -4,4 +4,7 @@ title: demo
 permalink: /demo/
 ---
 
-<script src="images/bundle.js"></script> 
+<body>
+    <svg id="chart" width="600" height="200"></svg>
+    <script src="images/bundle.js"></script>
+</body>
